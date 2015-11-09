@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[capitan]]></title>
         <description><![CDATA[capitan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/capitan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 11:30:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 11:34:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/capitan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/capitan/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">f29507f5-bdbd-4371-b076-ce808bd0d1e3</guid>
+            <pubDate>Mon, 09 Nov 2015 11:33:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ceci est mon premier test de The Grid</p>]]></description>
-            <link>undefined1a20f9a3-1e06-4b67-b2c1-dd5d999a129d/index.html</link>
+            <link>https://thegrid.ai/capitan/1a20f9a3-1e06-4b67-b2c1-dd5d999a129d/index.html</link>
             <guid isPermaLink="false">1a20f9a3-1e06-4b67-b2c1-dd5d999a129d</guid>
             <pubDate>Mon, 09 Nov 2015 11:30:23 GMT</pubDate>
         </item>
