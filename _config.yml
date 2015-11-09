@@ -1,0 +1,23 @@
+name: capitan
+favicon: null
+layout_spectrum: 0.8763567130081356
+typography_spectrum: 0.07981216185726225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8657606185879558
+  lightness: 0.7617791192606091
+  saturation: 0.7963710792828351
+  rhythmicContrast: 0.7913641571067274
+purpose: []
