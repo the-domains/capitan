@@ -1,6 +1,6 @@
 name: capitan
 favicon: null
-layout_spectrum: 0.8763567130081356
+layout_spectrum: 1
 typography_spectrum: 0.07981216185726225
 cta:
   domain: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#f5f9fc'
+    - '#dec3e2'
+    - '#b7a287'
+    - '#1c1c1c'
+    - '#776911'
   brandStrength: 0.8657606185879558
   lightness: 0.7617791192606091
   saturation: 0.7963710792828351
